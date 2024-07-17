@@ -1,0 +1,7 @@
+0 Two Thousand Rupees(2000)
+1 Two Hundred Rupees(200)
+2 Hundred Rupees Note(100)
+3 Five Hundred Rupees Note(500)
+4 Ten Rupees Note(10)
+5 Fifty Rupees Note(50)
+6 Twenty Rupees Note(20)
